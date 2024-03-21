@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
+ * Draws 4 quadrents that has a grid, circles, a gradient, and a flower. 
+ * @author: Emma Chan 
  *
  */
 class Main {
